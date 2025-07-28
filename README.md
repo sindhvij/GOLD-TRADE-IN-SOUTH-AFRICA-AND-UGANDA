@@ -1,2 +1,7 @@
 # GOLD-TRADE-IN-SOUTH-AFRICA-AND-UGANDA
 This project analyzes gold trade between BRICS countries (Brazil, Russia, India, China, South Africa) and other nations from 2017 to 2023.
+The study explores the export trade dynamics between South Africa and Uganda, using data gathered from 2017 through 2023. Based on UN ComTrade database, we analyzed various metrics including FOB values, reporting systems, and yearly trends to understand the key insights behind these periods. 
+Our findings reveal that South Africa, with its advanced infrastructure and BRICS membership, consistently outperformed Uganda in export values. However, Uganda showed remarkable growth, particularly in agricultural exports and emerging oil sector development. The data demonstrates how both countries navigated global challenges differently - South Africa through its diverse export portfolio and Uganda through regional integration. 
+In summary, this study evaluates the contrasting export strategies and capabilities of South Africa and Uganda, highlighting their different approaches to international trade. This research provides valuable insights into the development of African trade dynamics, infrastructure requirements, and the importance of both regional and global trade partnerships. The significant growth in combined exports from 1.66T (2017) to 3.41T (2023) demonstrates the resilience and potential of African economies in the global trade landscape.
+
+
